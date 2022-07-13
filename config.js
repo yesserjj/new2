@@ -6,8 +6,8 @@ global.owner = [
   ['6282138729360', 'Owner DrekBot', true]  
   
 ] 
-global.ownername = [['DrekiGanz']]
-global.namabot = [['Drekj-MD']]
+global.ownername = [['DrekiGanz,AleK']]
+global.namabot = [['Dreki-MD']]
 global.ownerinsta = [['@Drek-MD']]
 global.mods = [] 
 global.prems = [] 
